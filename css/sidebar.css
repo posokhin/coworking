@@ -1,0 +1,47 @@
+.main{
+    padding-top: 70px;
+}
+.main__sidebar{
+    width: 16.18181818181818%;
+    margin-right: 20px;
+}
+.sidebar__menu{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.sidebar__menu-item{
+    margin-bottom: 30px;
+}
+.sidebar__menu-link{
+    display: flex;
+    width: 110px;
+    align-items: center;
+}
+.sidebar__menu-icon{
+    background: url(../img/sidebar/main_icon.png) no-repeat;
+    background-size: cover;
+    width: 21px;
+    height: 19px;
+    margin-right: 20px;
+}
+.sidebar__menu-icon_feed{
+    background: url(../img/sidebar/feed_icon.png) no-repeat;
+    background-size: cover;
+    width: 21px;
+    height: 19px;
+}
+.sidebar__menu-icon_wallet{
+    background: url(../img/sidebar/wallet_icon.png) no-repeat;
+    background-size: cover;
+    width: 21px;
+    height: 19px;
+}
+.sidebar__menu-title{
+    font-family: "Gotham-Pro Bold";
+    font-size: 0.75em;
+    color: #ec1e79;
+}
+.sidebar__menu-title_active{
+    color: black;
+    border-bottom: 1px solid #d4d4d4;
+}

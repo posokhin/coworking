@@ -1,0 +1,47 @@
+.pag{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pag__desk{
+    font-size: 0.875em;
+    color: #656464;
+    font-family: "Roboto";
+    font-weight: lighter;
+    margin-right: 20px;
+}
+.pag__list{
+    display: flex;
+    align-items: center;
+}
+.pag__item{
+    margin-right: 20px;
+}
+.pag__num_active{
+    width: 25px;
+    height: 25px;
+    background: #27273e;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pag__btn-prev{
+    color: #bebdbd;
+    font-size: 0.875em;
+}
+.pag__num{
+    color: #221f1f;
+    font-size: 0.875em;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.pag__num-text_active{
+    color: white;    
+}
+.pag__btn-next{
+    color: #221f1f;
+    font-size: 0.875em;
+}

@@ -1,0 +1,39 @@
+.header{
+    background: #27273e;
+}
+.header__wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header__logo{
+    width: 50%;
+    padding: 10px 20px;
+}
+.header__contacts{
+    width: 50%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 20px 20px;
+}
+.header__tel{
+    margin-bottom: 5px;
+}
+.header__tel-link{
+    color: white;
+    font-size: 1.3125em;
+ 
+}
+.header__graph{
+    color: #ec1e79;
+    font-size: 0.875em;
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+.header__banner{
+    background: url(../img/header/Banner.png) no-repeat;
+    background-size: cover;
+    height: 359px;
+}

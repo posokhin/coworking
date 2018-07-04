@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Roboto:300,400,700&subset=cyrillic');
+@import url(base.css) screen;
+@import url(header.css) screen;
+@import url(sidebar.css) screen;
+@import url(feaut.css) screen;
+@import url(news.css) screen;
+@import url(pag.css) screen;
+@import url(footer.css) screen;
+
+
+@font-face{
+    font-family: "Gotham-Pro Bold";
+    src: url(../fonts/GothaProBol.otf);
+    font-weight: bold;
+}
+@font-face{
+    font-family: "Gotham-Pro Light";
+    src: url(../fonts/GothaProLig.otf);
+    font-weight: lighter;
+}
+@font-face{
+    font-family: "Gotham-Pro LigIta";
+    src: url(../fonts/GothaProLigIta.otf);
+    font-weight: normal;
+}
+@font-face{
+    font-family: "Gotham-Pro Regular";
+    src: url(../fonts/GothaProReg.otf);
+    font-weight: bold;
+}
