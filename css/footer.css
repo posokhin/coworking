@@ -3,6 +3,7 @@
     background: #27273e;
     color: white;
     margin-top: -80px;
+    min-width: 1140px;
 }
 .footer__wrap{
     display: flex;
