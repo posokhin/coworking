@@ -35,5 +35,5 @@
 .header__banner{
     background: url(../img/header/Banner.png) no-repeat;
     background-size: cover;
-    height: 359px;
+    padding-top: 32.63636363636364%;
 }
