@@ -6,8 +6,13 @@
     margin-right: 20px;
 }
 .sidebar__menu{
-    padding-left: 20px;
     padding-top: 10px;
+    display: none;
+}
+.fas{
+ font-size: 30px;
+ cursor: pointer;
+ margin-bottom: 20px;
 }
 .sidebar__menu-item{
     margin-bottom: 30px;

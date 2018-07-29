@@ -235,4 +235,10 @@
         justify-content: flex-end;
         padding: 10px 0px 0px 0px;
     }
+    .fas{
+        font-size: 20px;
+        cursor: pointer;
+        margin-bottom: 20px;
+        margin-top: 10px;
+       }
 }   
