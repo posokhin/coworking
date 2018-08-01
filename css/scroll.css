@@ -1,0 +1,19 @@
+.scrollbtn {
+    position: fixed;
+    right: 50px;
+    top: 560px;
+    display: none;
+}
+.href{
+    display: block;
+    width: 20px;
+    height: 20px;
+}
+.fa-chevron-circle-up{
+    font-size: 40px;
+    color: #27273E;
+    
+}
+.fa-chevron-circle-up:active{
+    color: red;
+}
