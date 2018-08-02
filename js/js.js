@@ -20,3 +20,20 @@ $('.scrollbtn').on('click', function (e) {
         scrollTop: 0
     } , 800);
 })
+
+/*owl carousel*/
+$('.feaut__list').owlCarousel({
+    loop: true,
+    items: 1,
+    touchDrag: true,
+    responsive: {
+        0:{
+            items: 1
+        },
+        768: {
+            items: 3
+        },
+
+
+    }
+})

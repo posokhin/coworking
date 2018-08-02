@@ -42,6 +42,10 @@
     position: absolute;
     margin: auto;
 }
+.owl-carousel .owl-item img{
+    width: 20%;
+    display: block;
+}
 .feaut__item-title{
     font-size: 0.6875em;
     font-family: "Gotham-Pro Bold";
