@@ -34,9 +34,8 @@ $('.feaut__list').owlCarousel({
             items: 3
         },
 
-
+        
     },
-    nav: true,
     onInitialized: function(){
         setTimeout(function(){
             $('.feaut__list').trigger('refresh.owl.carousel')
