@@ -35,5 +35,11 @@ $('.feaut__list').owlCarousel({
         },
 
 
+    },
+    nav: true,
+    onInitialized: function(){
+        setTimeout(function(){
+            $('.feaut__list').trigger('refresh.owl.carousel')
+        } , 1)
     }
 })
